@@ -9,6 +9,7 @@
 		<link href="//www.google-analytics.com" rel="dns-prefetch">
         <link href="<?php echo get_template_directory_uri(); ?>/img/icons/favicon.ico" rel="shortcut icon">
         <link href="<?php echo get_template_directory_uri(); ?>/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,15 +17,15 @@
 
 		<meta property="og:title" content="Mama Film">
 		<meta property="og:description" content="Earlybird registration starts May 20th">
-		<meta property="og:url" content="http://savethedate.mamafilmrace.com" />
+		<meta property="og:url" content="http://com" />
 		<meta property="og:type" content="website" />
-		<meta property="og:image" content="http://savethedate.mamafilmrace.com//mama-2018-social-share.jpg" />
+		<meta property="og:image" content="http://.com//mama-2018-social-share.jpg" />
 
 		<meta name="twitter:site" value="@CreativeRushKS" />
-		<meta property="twitter:url" content="http://savethedate.mamafilmrace.com" />
+		<meta property="twitter:url" content="http://.com" />
 		<meta property="twitter:title" content="Mama Film" />
 		<meta property="twitter:description" content="Earlybird registration starts May 20th" />
-		<meta property="twitter:image" content="http://savethedate.mamafilmrace.com/mama-2018-social-share.jpg" />
+		<meta property="twitter:image" content="http://.com/mama-2018-social-share.jpg" />
 		<meta name="twitter:card" value="summary_large_image" />
 
 		<link rel="stylesheet" href="/wp-content/themes/mama/assets/dist/css/app.css">

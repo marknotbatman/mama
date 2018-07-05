@@ -131,6 +131,27 @@ section {
 	// 		color:#fff;
 	// 	}
 	// }
+	&.circle-btn {
+		display:inline-flex;
+		width:100px;
+		height:100px;
+		border-radius:50%;
+		align-items: center;
+		justify-content: center;
+		flex-flow: column;
+		text-align: center;
+		position: relative;
+		span {
+			font-size: .8rem;
+			position: absolute;
+			margin-bottom: .25rem;
+			top: 34px;
+		}
+		svg {
+			bottom: 28px;
+			position: absolute;
+		}
+	}
 }
 
 
