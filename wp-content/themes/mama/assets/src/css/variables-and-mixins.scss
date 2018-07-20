@@ -1,8 +1,12 @@
 //Color Variables
-$black:#000;
+$black:#231f20;
 $white:#fff;
-$yellow:#FDC70C;
-$gray:#282828;
+$orange:#ee3923;
+$peach:#fdd6b5;
+$gray:#bbbdc0;
+$instagram:#231f20;
+$facebook:#3B5998;
+$twitter:#1DA1F2;
 
 .black {
 	color:$black;
@@ -10,8 +14,11 @@ $gray:#282828;
 .white {
 	color:$white;
 }
-.yellow {
-	color:$yellow;
+.orange {
+	color:$orange;
+}
+.peach {
+	color:$peach;
 }
 .gray {
 	color:$gray;
@@ -22,21 +29,20 @@ $gray:#282828;
 .bg-white {
 	background-color:$white;
 }
-.bg-yellow {
-	background-color:$yellow;
+.bg-orange {
+	background-color:$orange;
+}
+.bg-peach {
+	background-color:$peach;
 }
 .bg-gray {
 	background-color:$gray;
 }
 
 //Fonts
-@import url('https://fonts.googleapis.com/css?family=Krona+One|Open+Sans:400,600,700|Six+Caps');
-$sans:'Open Sans', sans-serif;
-//400, 600, 700
-$krona:'Krona One', sans-serif;
-//400
-$six:'Six Caps', sans-serif;
-//400
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,400,700,900');$sans:'Open Sans', sans-serif;
+//100 400 700 900
+$sans-serif:'Montserrat', sans-serif;
 
 .center {
 	text-align:center;
@@ -47,14 +53,17 @@ $six:'Six Caps', sans-serif;
 .right {
 	text-align:right;
 }
+.weight-100 {
+	font-weight:100;
+}
 .weight-400 {
 	font-weight:400;
 }
-.weight-600 {
-	font-weight:600;
-}
 .weight-700 {
 	font-weight:700;
+}
+.weight-900 {
+	font-weight:900;
 }
 
 @mixin breakpoint($point) {
